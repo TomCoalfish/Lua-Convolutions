@@ -1,0 +1,24 @@
+[submodule "CUDA-FFT-Convolution"]
+	path = CUDA-FFT-Convolution
+	url = https://github.com/xiongzhanblake/CUDA-FFT-Convolution
+[submodule "FFTConvolver"]
+	path = FFTConvolver
+	url = https://github.com/HiFi-LoFi/FFTConvolver
+[submodule "fftwpp"]
+	path = fftwpp
+	url = https://github.com/dealias/fftwpp
+[submodule "FourierConvolutionCUDALib"]
+	path = FourierConvolutionCUDALib
+	url = https://github.com/StephanPreibisch/FourierConvolutionCUDALib
+[submodule "fftw-convolution-example-1D"]
+	path = fftw-convolution-example-1D
+	url = https://github.com/mosco/fftw-convolution-example-1D
+[submodule "DigitalFilteringAlgorithms"]
+	path = DigitalFilteringAlgorithms
+	url = https://github.com/DoraSzasz/DigitalFilteringAlgorithms
+[submodule "ConvolutionSumUsingFFT"]
+	path = ConvolutionSumUsingFFT
+	url = https://github.com/mohsenmahroos/ConvolutionSumUsingFFT
+[submodule "ConvolutionSumUsingFFT2"]
+	path = ConvolutionSumUsingFFT2
+	url = https://github.com/mohsenmahroos/ConvolutionSumUsingFFT2
